@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.restfulwebservices;
+package com.in28minutes.rest.webservices.restfulwebservices.resource;
 
 import com.amazonaws.xray.spring.aop.XRayEnabled;
 import org.springframework.web.bind.annotation.GetMapping;

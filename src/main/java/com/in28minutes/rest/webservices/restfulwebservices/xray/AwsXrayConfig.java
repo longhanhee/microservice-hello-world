@@ -12,6 +12,6 @@ public class AwsXrayConfig {
 
 	@Bean
 	public Filter TracingFilter() {
-		return new AWSXRayServletFilter("currency-exchange-service");
+		return new AWSXRayServletFilter("hello-world");
 	}
 }
